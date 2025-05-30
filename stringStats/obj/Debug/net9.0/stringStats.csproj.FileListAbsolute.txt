@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\stringStats\bin\Debug\net9.0\stringStats.exe
+C:\Users\User\Desktop\stringStats\bin\Debug\net9.0\stringStats.deps.json
+C:\Users\User\Desktop\stringStats\bin\Debug\net9.0\stringStats.runtimeconfig.json
+c:\Users\User\Desktop\stringStats\bin\Debug\net9.0\stringStats.dll
+c:\Users\User\Desktop\stringStats\bin\Debug\net9.0\stringStats.pdb
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.AssemblyInfo.cs
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.dll
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\refint\stringStats.dll
+c:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.pdb
+C:\Users\User\Desktop\stringStats\obj\Debug\net9.0\stringStats.genruntimeconfig.cache
+C:\Users\User\Desktop\stringStats\obj\Debug\net9.0\ref\stringStats.dll
